@@ -1,5 +1,5 @@
 # zenpher
-<img src="game/title.png" alt="" width="1080">
+<img src="title.png" alt="" width="1080">
 zenpher is a social game where you can customize your blob...
 ...yes its that simple, or is it?
 you can apply for a j*b, absolutely FORCE it to do tasks, provocate chaos, etc etc etc.
